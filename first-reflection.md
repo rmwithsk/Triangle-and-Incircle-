@@ -1,4 +1,5 @@
 ## Triangle & Incircle Problem
+![Triangle Diagram](trianglediagram.png) 
 
 ### Problem Overview
 The problem involved a triangle with an incircle radius of 4 cm, where one side was divided into segments of 6 cm and 8 cm by the point of tangency of the incircle. The goal was to determine the smallest side of the triangle.
